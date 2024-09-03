@@ -1,0 +1,7 @@
+Flask
+Gunicorn
+CORS
+flask_cors
+uvicorn
+google-cloud-texttospeech
+python-dotenv
